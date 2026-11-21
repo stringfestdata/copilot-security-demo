@@ -1,0 +1,17 @@
+COPILOT SECURITY DEMO - FICTIONAL DATA
+
+EXCEL FOR THE WEB BASELINE (VERIFIED NOVEMBER 21, 2026)
+Save a working copy to an approved work OneDrive or SharePoint location and open it in Excel for the web. Choose Chat only in Copilot. Optional: repeat after applying an IT-provided classification-only label and reopening the file; this label comparison was not yet verified in the author's account.
+
+Using only CustomerPipeline in this workbook, report total pipeline amount and amount by Status. Include the number of deals. Do not repeat contact names or email addresses, and do not edit the workbook. If you cannot access the workbook, say so instead of guessing.
+
+BROWSER PROMPT-PROTECTION COMPARISON (OBSERVED NOVEMBER 21, 2026)
+In work-account Microsoft 365 Copilot Chat on the web, start a new conversation for each prompt. These markers work only if your administrator has created the matching custom classifier and narrowly scoped DLP rule described in the article.
+
+Comparison:
+This is a fictional security training check. Marker: STRINGFESTDEMOPUBLIC20261121. What is 2 + 2? Reply with the number only.
+
+Matching marker:
+This is a fictional security training check. Marker: STRINGFESTDEMOSECRET20261121. What is 2 + 2? Reply with the number only.
+
+Observed in the author's configured account: comparison returned 4; matching marker produced an organization-policy restriction. The EDP badge remained green. This is a prompt-text test, not a test of uploaded workbook content.
