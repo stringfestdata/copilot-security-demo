@@ -13,7 +13,7 @@ Check 12 deals and $212,000 total: Proposal 4 / $76,500; Qualified 3 / $48,000; 
 
 ## Optional classification comparison
 
-If IT has supplied a classification-only test label, apply it to the working copy, save, close and reopen, then start a fresh chat and repeat the same prompt. Record the label text and the actual response. The author's newly published demo labels had not yet appeared in Office; this comparison is a suggested check, not a reported test result.
+If IT has supplied a classification-only test label, apply it to the working copy, save, close and reopen, then start a fresh chat and repeat the same prompt. Record the label text and the actual response. On November 22, 2026, the author's labels appeared in Excel desktop before 24 hours had elapsed. Applying orange Demo - Confidential and then burgundy Demo - Restricted changed Copilot's badge; both badge popups still confirmed EDP. Both desktop summary attempts reported workbook-access errors, as the earlier unlabeled desktop attempt had. These results verify the colors and EDP display, not successful labeled-workbook analysis or policy blocking.
 
 ## Browser prompt-protection comparison
 
