@@ -1,7 +1,7 @@
 COPILOT SECURITY DEMO - FICTIONAL DATA
 
 EXCEL FOR THE WEB BASELINE (VERIFIED NOVEMBER 21, 2026)
-Save a working copy to an approved work OneDrive or SharePoint location and open it in Excel for the web. Choose Chat only in Copilot. Optional: repeat after applying an IT-provided classification-only label and reopening the file; this label comparison was not yet verified in the author's account.
+Save a working copy to an approved work OneDrive or SharePoint location and open it in Excel for the web. Choose Chat only in Copilot. Optional: repeat after applying an IT-provided classification-only label and reopening the file; the author's desktop test on November 22 verified orange and burgundy badges with EDP still confirmed, but both summary attempts reported workbook-access errors. Do not interpret a generic access error as policy blocking.
 
 Using only CustomerPipeline in this workbook, report total pipeline amount and amount by Status. Include the number of deals. Do not repeat contact names or email addresses, and do not edit the workbook. If you cannot access the workbook, say so instead of guessing.
 
