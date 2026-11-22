@@ -3,7 +3,7 @@
 A fictional practice workbook for the Stringfest Analytics article:
 https://stringfestanalytics.com/copilot-shield-colors-edp-sensitivity-labels/
 
-The article is being prepared as a draft. Files: copilot-security-demo.xlsx and practice-prompts.txt. No macros or code are required. All names, companies, email addresses, and amounts are invented; email addresses use .example.
+Companion files for the published article: copilot-security-demo.xlsx and practice-prompts.txt. No macros or code are required. All names, companies, email addresses, and amounts are invented; email addresses use .example.
 
 ## Workbook exercise
 
